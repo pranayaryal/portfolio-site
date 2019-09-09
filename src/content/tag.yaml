@@ -1,0 +1,6 @@
+- id: speeches
+  description: Some of the greatest words ever spoken.
+  image: img/speeches-cover.jpg
+- id: react
+  description: These are about react.js.
+  image: img/speeches-cover.jpg
