@@ -6,12 +6,12 @@
   website: https://ghost.org/
   location: On a plane
 - id: Pranay Aryal
-  avatar: avatars/ghost.png
+  avatar: avatars/self-resized.jpg
   bio: Software Developer
   twitter: pranayaryal
   facebook:
   website:
-  location: Meditating
+  location: In a plane
 - id: Another Author
   avatar: avatars/ghost.png
   bio: This is another test author with a profile background image

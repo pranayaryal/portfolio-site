@@ -49,13 +49,13 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: "Pranay Aryal",
-  description: '',
+  title: "",
+  description: 'Blog Posts',
   coverImage: 'img/blog-cover.jpg',
   // logo: 'img/ghost-logo.png',
-  logo: 'img/trump.png',
+  logo: 'img/self.jpg',
   lang: 'en',
-  siteUrl: 'https://gatsby-casper.netlify.com',
+  siteUrl: 'https://pranaysite.netlify.com',
   facebook: '',
   twitter: 'https://twitter.com/pranayaryal',
   showSubscribe: false,

@@ -37,7 +37,8 @@ const About: React.FC = () => (
           <PostFullContent className="post-full-content">
             <div className="post-content">
               <p>
-                Hi, I'm Pranay. I write about stuff that took me a long time to understand. I write
+                Hi, I'm Pranay Aryal. I write about stuff that took me a long time to understand. I have a background in medicine
+                and experience in software development. I write
                 so that I can explain it to you better.
               </p>
             </div>

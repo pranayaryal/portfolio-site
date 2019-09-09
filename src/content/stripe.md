@@ -63,6 +63,7 @@ npm install --save react-stripe-elements
 5. You can handle your stripe logic in InjectedCardElement.js component given above. 
 
 > 'Props' are available to you automatically.
+
 ```js
     import React from 'react';
     import { CardElement, injectStripe } from 'react-stripe-elements'
@@ -85,3 +86,5 @@ npm install --save react-stripe-elements
 
     export default injectStripe(InjectedCardElement);
 ```
+
+6. Once you get the token, you can send it to your backend to create a charge with that token.
