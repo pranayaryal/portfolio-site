@@ -8,7 +8,7 @@ tags:
   - Markdown
 ---
 
-Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+This is how you would style with markdown.
 
 ---
 

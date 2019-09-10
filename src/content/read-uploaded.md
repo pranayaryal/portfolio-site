@@ -1,14 +1,14 @@
 ---
 layout: post
 title: C# - Read uploaded file
-image: img/testimg-cover.jpg
+image: img/bridge.jpg
 author: Pranay Aryal
-date: 2019-08-10T10:00:00.000Z
+date: 2019-04-10T10:00:00.000Z
 tags:
   - C#
 ---
 
-This is how you can read uploaded files in C#.
+👋 This is how you can read uploaded files in C#.
 
 ```c
 [HttpPost, Route("api/upload")]

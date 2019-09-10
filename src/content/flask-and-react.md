@@ -6,6 +6,7 @@ author: Pranay Aryal
 date: 2019-08-10T10:00:00.000Z
 tags:
   - Flask
+  - React
 ---
 
 I will show you how to run Flask and React together.

@@ -3,7 +3,7 @@ layout: post
 title: Plot feature importance
 image: img/speeches-cover.jpg
 author: Pranay Aryal
-date: 2019-08-10T10:00:00.000Z
+date: 2018-08-10T10:00:00.000Z
 tags:
   - Python
 ---

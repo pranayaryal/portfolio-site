@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: "",
-  description: 'Blog Posts',
+  description: '',
   coverImage: 'img/blog-cover.jpg',
   // logo: 'img/ghost-logo.png',
   logo: 'img/self.jpg',
