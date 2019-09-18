@@ -49,7 +49,7 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: "",
+  title: "Pranay Aryal",
   description: '',
   coverImage: 'img/blog-cover.jpg',
   // logo: 'img/ghost-logo.png',
