@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: "Pranay Aryal",
-  description: '',
+  description: 'Full-Stack Developer',
   coverImage: 'img/blog-cover.jpg',
   // logo: 'img/ghost-logo.png',
   logo: 'img/self.jpg',
