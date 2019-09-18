@@ -15,11 +15,11 @@ I am going to be using React's functional components here
 <script src="https://js.stripe.com/v3/"></script>
 ```
 2. Install `react-stripe-elements`
-```js
+```bash
 npm install --save react-stripe-elements
 ```
 3. Create a component that will inject stripe like this. This will create a form with a button
-```js
+```javascript
     import React from 'react';
     import { CardElement, injectStripe } from 'react-stripe-elements'
 
@@ -36,7 +36,7 @@ npm install --save react-stripe-elements
     export default injectStripe(InjectedCardElement);
 ```
 4. Create the main file which will take the injected file like this after importing it. This is where you put your stripe publishable test key
-```js
+```javascript
     import React from 'react';
     import { StripeProvider, Elements, injectStripe, CardElement } from 'react-stripe-elements';
     import InjectedCardElement from './InjectedCardElement';
@@ -64,7 +64,7 @@ npm install --save react-stripe-elements
 
 > 'Props' are available to you automatically.
 
-```js
+```javascript
     import React from 'react';
     import { CardElement, injectStripe } from 'react-stripe-elements'
 
