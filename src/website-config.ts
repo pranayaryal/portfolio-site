@@ -55,7 +55,7 @@ const config: WebsiteConfig = {
   // logo: 'img/ghost-logo.png',
   logo: 'img/self.jpg',
   lang: 'en',
-  siteUrl: 'https://pranaysite.netlify.com',
+  siteUrl: 'https://pranayaryal.netlify.com',
   facebook: '',
   twitter: 'https://twitter.com/pranayaryal',
   showSubscribe: false,
