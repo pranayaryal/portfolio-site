@@ -68,6 +68,22 @@ Then type
 sudo service nginx restart
 ```
 
+You also have to go to `/etc/hosts` file and add your app name there. Mine looks like this
+
+```shell
+  127.0.0.1       localhost
+  127.0.1.1       pranay-Z170GT7
+  127.0.0.1       blog.app
+  # The following lines are desirable for IPv6 capable hosts
+  ::1     ip6-localhost ip6-loopback
+  fe00::0 ip6-localnet
+  ff00::0 ip6-mcastprefix
+  ff02::1 ip6-allnodes
+  ff02::2 ip6-allrouters
+```
+
+You can see that `blog.app` is pointing to 127.0.0.1.
+
 If you get <strong>404 not found</strong> error then please ensure and check doubly that your path next to 'root' is correct. I ran into problems because of incorrect path
 
 I hope this helps
