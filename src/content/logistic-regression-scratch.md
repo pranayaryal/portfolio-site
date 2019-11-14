@@ -8,7 +8,7 @@ tags:
   - Python
 ---
 
-In this article, I will show you how to write the logistic regression algorithm from scratch.
+In this articles, I will show you how to write the logistic regression algorithm from scratch.
 
 Let's first create a function that will return the sigmoid value of any number.
 
