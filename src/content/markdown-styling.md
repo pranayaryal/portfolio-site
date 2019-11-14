@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Styling with Markdown
-image: img/writing.jpg
+image: img/pillars.jpg
 author: Pranay Aryal
 date: 2018-09-30T07:03:47.149Z
 tags: 

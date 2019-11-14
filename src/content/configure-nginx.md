@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Configure Nginx to Run websites
-image: 
+image: img/nginx.jpg
 author: Pranay Aryal
 date: 2019-07-10T10:00:00.000Z
 tags:
