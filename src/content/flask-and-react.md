@@ -70,7 +70,7 @@ Then in another terminal run `python serve.py`. This will run the flask app.
 
 Open the browser and visit http://localhost:5000. You should see your app running with the javascript code.
 
-If you make any changes to React, you will have to run npm run build in another terminal to compile your javascript to static files so that Flask can recognize them.
+If you make any changes to React, you will have to run `npm run build` in another terminal to compile your javascript to static files so that Flask can recognize them.
 
 You can also make api calls from React to your flask backend and use the returned variables to populate the html.
 
