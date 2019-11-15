@@ -40,7 +40,7 @@ const About: React.FC = () => (
                 Hi, I'm Pranay Aryal. I write about stuff that took me a long time to understand. I write
                 so that I can explain it to you better.
               </p>
-              <p>I have experience with software development and a background in medicine.</p>
+              <p>I have experience with software development and a have a background in medicine.</p>
               <p>You can contact me at devparyal@gmail.com</p>
             </div>
           </PostFullContent>
