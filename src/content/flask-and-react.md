@@ -74,6 +74,4 @@ If you make any changes to React, you will have to run `npm run build` in anothe
 
 You can also make api calls from React to your flask backend and use the returned variables to populate the html.
 
-[Here](https://github.com/pranayaryal/arxiv-sanity-preserver) is an example project using both.
-
 I hope this helps.
