@@ -176,7 +176,7 @@ export const PostFullContent = styled.section`
     /* border: color(var(--darkgrey) l(-10%)) 1px solid; */
     border: ${darken('0.01', colors.darkgrey)} 1px solid;
     color: ${colors.whitegrey};
-    font-size: 1.4rem;
+    font-size: 1.8rem;
     line-height: 1.5em;
     /* background: color(var(--darkgrey) l(-3%)); */
     background: ${darken('0.03', colors.darkgrey)};
