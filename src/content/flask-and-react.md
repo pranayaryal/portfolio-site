@@ -3,7 +3,7 @@ layout: post
 title: How to Run Flask and React
 image: img/test-tube.jpg
 author: Pranay Aryal
-date: 2019-08-10T10:00:00.000Z
+date: 2019-11-10T10:00:00.000Z
 tags:
   - Flask
   - React
