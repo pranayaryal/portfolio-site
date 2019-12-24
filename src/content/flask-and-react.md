@@ -9,17 +9,13 @@ tags:
   - React
 ---
 
-I will show you how to run Flask and React together.
+I'm sure you know how to run Flask app as detailed in [here](http://flask.pocoo.org/)
 
-The assumption is that you know how to run Flask app as detailed in [here](http://flask.pocoo.org/)
+Use <mark>create-react-app</mark> to build a skeleton boiler-plate React structure.
 
-I am also assuming you have installed Flask in a <strong>virtualenv</strong>.
+Copy over the folders into the Flask project.
 
-Next, you can use <mark>create-react-app</mark> to build a skeleton boiler-plate React structure.
-
-You can copy over the folders into the Flask project.
-
-Your final directory structure should look like this.
+The final directory structure:
 
 ```bash
 flask_app
@@ -50,7 +46,7 @@ Flask should be configured to serve the `build/index.hmtl` file.
 
 This is the same file which will reference the compiled javascript code which are present in build/static/css and build/static/js folders.
 
-Let’s say your `serve.py` has the code:
+Your `serve.py` should be like this:
 ```py
 from flask import Flask, render_template
 app = Flask(__name__, static_folder="build/static", template_folder="build")
@@ -64,9 +60,9 @@ app.run(host='0.0.0.0')
 
 You will need two instance of terminals:
 
-In one terminal go to the root folder of the project and type npm run build. This should create the static javascript and css code.
+In one terminal go to the root folder of the project and type `npm run build`. This should create the static javascript and css code.
 
-Then in another terminal run `python serve.py`. This will run the flask app.
+In another terminal run `python serve.py`. This will run the flask app.
 
 Open the browser and visit http://localhost:5000. You should see your app running with the javascript code.
 
@@ -74,4 +70,4 @@ If you make any changes to React, you will have to run `npm run build` in anothe
 
 You can also make api calls from React to your flask backend and use the returned variables to populate the html.
 
-I hope this helps.
+Unfortunately, this does not work with React's hot reloading.
