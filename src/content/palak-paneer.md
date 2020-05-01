@@ -3,7 +3,7 @@ layout: post
 title: How to Make Palak Paneer
 image: 
 author: Pranay Aryal
-date: 2020-03-29T10:00:00.000Z
+date: 2019-02-29T10:00:00.000Z
 tags:
   - Cooking
 ---
