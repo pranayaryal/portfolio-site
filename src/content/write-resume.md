@@ -18,4 +18,5 @@ draft: false
 5. Latex is great for resumes.  It takes time but it is totally worth it.
 6. I have had a lot of frustrations with Microsoft Word because if you change anything, the whole format changes.
 7. Latex is good at wrapping text and resizing.
+8. Latex is also great for scientific writing.
 8. Credit goes to Sourav for making his resume in .tex public.
