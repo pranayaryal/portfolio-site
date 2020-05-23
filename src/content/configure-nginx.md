@@ -86,4 +86,34 @@ You can see that `blog.app` is pointing to 127.0.0.1.
 
 If you get <strong>404 not found</strong> error then please ensure and check doubly that your path next to 'root' is correct. I ran into problems because of incorrect path
 
+If you get 502-Bad gateway error:
+Check the version of php you have by typing
+
+```shell
+php --version
+```
+Depending on the php version you have, change the above conf file. For example I have php7.3
+So my nginx conf file looks like this. Note the php7.3-fpm in the third line end.
+```shell
+    try_files $uri =404;
+    fastcgi_split_path_info ^(.+\.php)(/.+)$;
+    fastcgi_pass unix:/var/run/php/php7.3-fpm.sock; ## Note php7.3-fpm here
+    fastcgi_index index.php;
+    fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+    include fastcgi_params;
+```
+
+After this make sure you have `php7.3-fpm` installed.  If not installed, type this to install it
+
+```shell
+sudo apt-get update
+sudo apt-get install php7.3-fpm
+```
+
+After this do
+```shell
+sudo systemctl reload nginx
+```
+Your site should be running
+
 I hope this helps
