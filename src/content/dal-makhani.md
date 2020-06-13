@@ -11,7 +11,7 @@ tags:
 Credit goes to this video in <a href="https://www.youtube.com/watch?v=FTIjbV6yczo" target="_blank">YouTube</a> by `Swad Anusaar`
 
 1. Ingredients -
-   - 1 cup black dal with 1 fistful of rajmah (kidney beans) or chickpeas
+   - 1 cup black dal soaked with 1 fistful of rajmah (kidney beans) or chickpeas
    - 1 tsp salt
 2. Roughly chop onion, tomato, ginger and garlic
 3. Coriander leaves
