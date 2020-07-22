@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Make Palak Paneer
-image: 
+image: img/palak.jpeg
 author: Pranay Aryal
 date: 2019-02-29T10:00:00.000Z
 tags:

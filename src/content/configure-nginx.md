@@ -1,14 +1,15 @@
 ---
 layout: post
 title: How to Configure Nginx to Run websites
-image: img/nginx.jpg
+image: 
 author: Pranay Aryal
 date: 2019-07-10T10:00:00.000Z
 tags:
   - nginx
 ---
 
-I will show you how to configure nginx to serve a website in Ubuntu 18.04
+![](/img/feeling-proud.svg)
+This is how to configure nginx to serve a website in Ubuntu 18.04
 
 Create a .conf file in `/etc/nginx/sites-available`. For instance, you can run `touch blog.app.conf` in the `sites-available` directory.
 

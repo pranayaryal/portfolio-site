@@ -3,7 +3,7 @@ layout: post
 title: "Configuring Tailwind CSS"
 author: Pranay Aryal
 tags: ["CSS"]
-image: img/testimg1.jpg
+image: img/css.jpeg
 date: "2020-06-06T23:46:37.121Z"
 draft: false
 ---

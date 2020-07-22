@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plot feature importance
-image: img/speeches-cover.jpg
+image: img/plot.jpeg
 author: Pranay Aryal
 date: 2018-08-10T10:00:00.000Z
 tags:

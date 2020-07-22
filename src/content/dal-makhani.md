@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Make Dal Makhani
-image: 
+image: img/garlic.jpeg
 author: Pranay Aryal
 date: 2020-04-04T10:00:00.000Z
 tags:

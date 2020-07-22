@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clearing Data in React Hooks
-image: img/nginx.jpg
+image: img/hooks.jpeg
 author: Pranay Aryal
 date: 2019-07-10T10:00:00.000Z
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Make Chicken Curry
-image: img/nginx.jpg
+image: img/masala.jpeg
 author: Pranay Aryal
 date: 2019-07-10T10:00:00.000Z
 tags:

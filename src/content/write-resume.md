@@ -3,7 +3,7 @@ layout: post
 title: "How To Write Resumes"
 author: Pranay Aryal
 tags: ["Resume"]
-image: img/testimg1.jpg
+image: img/resume.jpeg
 date: "2020-05-06T23:46:37.121Z"
 draft: false
 ---

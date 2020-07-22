@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C# - Read uploaded file
-image: img/file.jpg
+image: img/file.jpeg
 author: Pranay Aryal
 date: 2019-04-10T10:00:00.000Z
 tags:
