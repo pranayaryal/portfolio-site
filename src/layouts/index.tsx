@@ -484,6 +484,8 @@ const IndexLayout: React.FC<IndexProps> = props => {
     <div className={props.className}>
       <Helmet>
         <link rel="icon" href={favicon} type="image/x-icon" />
+        <script async defer data-domain="pranaysite.com" src="https://plausible.io/js/plausible.js" />
+
       </Helmet>
       <Global styles={GlobalStyles} />
       {props.children}
