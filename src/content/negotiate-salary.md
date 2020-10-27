@@ -17,7 +17,7 @@ Hi I will advise on salary negotiation based on my experience
 - They say that the first person who gives out a number may lose out in a negotiation
 - If they persist, say "It can depend on company size, company equity, etc"
 - It's also okay to say if asked in a phone screen: 'I haven't researched the company yet so I don't have a number'
-- I've also said "If the range is beyond my expectations, we can agree to withdraw my candidacy". (politely)
+- When they have persisted for a number, I've also said "If the range is beyond my expectations, we can agree to withdraw my candidacy". (politely)
 - If the company has a required 'salary' field in their application form, fill 'negotiable'. Don't put a number there.
 - If they say 'We don't want to waste each other's time, could you please state your expected range', say the fifth point above.
 - If you are extended an offer, try to negotiate by email. Shy people like me express themselves better in email.
