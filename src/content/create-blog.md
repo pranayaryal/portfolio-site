@@ -107,4 +107,4 @@ Change what follows after /tags and also within that <Link>
 
 You might want to host this on <a href='https://netlify.com' target='_blank'>Netlify</a> but that is going to be a separate blog by itself 😄
 
-
+I can be found in <a href="https://twitter.com/pranayaryal" target="__blank">twitter</a>

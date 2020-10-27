@@ -36,3 +36,6 @@ Credit goes to this video in <a href="https://www.youtube.com/watch?v=FTIjbV6ycz
 - After frying, put palak puree you just made and also some water.
 - Once it starts boiling add little yoghurt (3tsp)
 - In the end put garam masala powder
+
+
+I can be found in <a href="https://twitter.com/pranayaryal" target="__blank">twitter</a>

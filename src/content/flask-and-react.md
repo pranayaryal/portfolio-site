@@ -71,3 +71,6 @@ If you make any changes to React, you will have to run `npm run build` in anothe
 You can also make api calls from React to your flask backend and use the returned variables to populate the html.
 
 Unfortunately, this does not work with React's hot reloading.
+
+I can be found in <a href="https://twitter.com/pranayaryal" target="__blank">twitter</a>
+

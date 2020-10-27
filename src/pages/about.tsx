@@ -41,7 +41,7 @@ const About: React.FC = () => (
                 so that I can explain it to you better.
               </p>
               <p>I have experience with software development and a have a background in medicine.</p>
-              <p>You can contact me at devparyal@gmail.com</p>
+              <p>Follow me on <a href="https://twitter.com/pranayaryal" target="__blank">twitter</a></p>
             </div>
           </PostFullContent>
         </article>
