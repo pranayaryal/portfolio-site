@@ -3,7 +3,7 @@ layout: post
 title: How to negotiate salary
 image: 
 author: Pranay Aryal
-date: 2020-10-26T10:00:00.000Z
+date: 2020-04-26T10:00:00.000Z
 tags:
   - salary
 ---
